@@ -1,0 +1,1 @@
+Edición del archivo ''primerArchivo.txt'' como prueba y ensayo de las habilidades adquidiras hasta la instancia <<MO2 Terminal, Git y GitHub>> del curso de preparación.
